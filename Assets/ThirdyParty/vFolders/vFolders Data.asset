@@ -21,6 +21,7 @@ MonoBehaviour:
     - e1a4df4f90df5df45a7cb52816cf8434
     - 258b44ed6ec5c2c48b7b02017c01a51d
     - 65e9b81b75da8a643b43ca4a70a3d555
+    - 71137808f8b3a2147bdc9f4369de2b2b
     values:
     - iconNameOrGuid: SceneAsset Icon
       colorIndex: 8
@@ -48,6 +49,10 @@ MonoBehaviour:
       isColorRecursive: 0
     - iconNameOrGuid: Prefab Icon
       colorIndex: 7
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: 
+      colorIndex: 10
       isIconRecursive: 0
       isColorRecursive: 0
   bookmarks:
